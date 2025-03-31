@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|c:\\users\\po42oio\\documents\\github\\p_appmaui\\p_appmobilelecture\\p_appmobilelecture\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|solutionrelative:p_appmobilelecture\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|c:\\users\\po42oio\\documents\\github\\p_appmaui\\p_appmobilelecture\\p_appmobilelecture\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|solutionrelative:p_appmobilelecture\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|c:\\users\\po42oio\\documents\\github\\p_appmaui\\p_appmobilelecture\\p_appmobilelecture\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|solutionrelative:p_appmobilelecture\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|c:\\users\\po42oio\\documents\\github\\p_appmaui\\p_appmobilelecture\\p_appmobilelecture\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|solutionrelative:p_appmobilelecture\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|c:\\users\\po42oio\\documents\\github\\p_appmaui\\p_appmobilelecture\\p_appmobilelecture\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8DA1D9F-2A08-41FE-9BD2-D9D8DFF2F35F}|P_AppMobileLecture\\P_AppMobileLecture.csproj|solutionrelative:p_appmobilelecture\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\Profile.xaml",
+              "RelativeDocumentMoniker": "P_AppMobileLecture\\Profile.xaml",
+              "ToolTip": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\Profile.xaml",
+              "RelativeToolTip": "P_AppMobileLecture\\Profile.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T11:58:27.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\MainPage.xaml",
+              "RelativeDocumentMoniker": "P_AppMobileLecture\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\MainPage.xaml",
+              "RelativeToolTip": "P_AppMobileLecture\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T11:43:11.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\HomePage.xaml",
+              "RelativeDocumentMoniker": "P_AppMobileLecture\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\HomePage.xaml",
+              "RelativeToolTip": "P_AppMobileLecture\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T11:31:59.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "P_AppMobileLecture\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\AppShell.xaml.cs",
+              "RelativeToolTip": "P_AppMobileLecture\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:25:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\AppShell.xaml",
+              "RelativeDocumentMoniker": "P_AppMobileLecture\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\po42oio\\Documents\\GitHub\\P_appMaui\\P_AppMobileLecture\\P_AppMobileLecture\\AppShell.xaml",
+              "RelativeToolTip": "P_AppMobileLecture\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T11:24:57.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
