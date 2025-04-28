@@ -1,14 +1,39 @@
-﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:P_AppMobileLecture"
              x:Class="P_AppMobileLecture.App">
+
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
             </ResourceDictionary.MergedDictionaries>
+
+            <ControlTemplate x:Key="PageLayoutTemplate">
+                <Grid RowDefinitions="Auto,*,Auto">
+
+                    <!-- Header -->
+                    <Grid RowDefinitions="Auto,Auto" BackgroundColor="DodgerBlue">
+                        <Image
+                            Source="logo.png"
+                            HeightRequest="100"
+                            HorizontalOptions="Start"
+                            Aspect="AspectFit"
+                            Grid.Row="0" />
+                    </Grid>
+
+                    <!-- Content -->
+                    <ContentPresenter Grid.Row="1"/>
+
+                    <!-- Footer -->
+                    <Grid Grid.Row="2">
+                        <!-- footer content -->
+                    </Grid>
+
+                </Grid>
+            </ControlTemplate>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>

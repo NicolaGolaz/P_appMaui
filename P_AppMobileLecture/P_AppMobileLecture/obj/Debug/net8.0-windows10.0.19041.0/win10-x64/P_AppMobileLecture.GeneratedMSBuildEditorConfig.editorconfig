@@ -46,6 +46,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = P_AppMobileLecture.MainPag
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/po42oio/Documents/GitHub/P_appMaui/P_AppMobileLecture/P_AppMobileLecture/PageLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = P_AppMobileLecture.PageLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = PageLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = PageLayout.xaml
+
 [C:/Users/po42oio/Documents/GitHub/P_appMaui/P_AppMobileLecture/P_AppMobileLecture/Profile.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = P_AppMobileLecture.Profile.xaml
