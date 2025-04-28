@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            
+             xmlns:ViewModels="clr-namespace:exercice_MVVM.ViewModels"
+             xmlns:s="clr-namespace:System;assembly=mscorlib"
+             x:Class="exercice_MVVM.MainPage">
+
+    <ContentPage.BindingContext>
+		<ViewModels:MVVMViewModel/>
+	</ContentPage.BindingContext>
+
+
+   
+    <VerticalStackLayout>
+
+        <Entry Text="{Binding Counter}"/>
+
+        <Button Text="{Binding Counter, StringFormat='Counter: {0} [click to inc 5]' }" Command="{Binding IncrementCommand}">
+
+            <Button.CommandParameter>
+                <s:Int32>5</s:Int32>
+            </Button.CommandParameter>
+            
+        </Button>
+
+    </VerticalStackLayout>
+    
+
+</ContentPage>

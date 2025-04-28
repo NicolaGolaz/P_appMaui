@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>exercice-MVVM</name>
+    </assembly>
+    <members>
+        <member name="T:exercice_MVVM.ViewModels.ListViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:exercice_MVVM.ViewModels.ListViewModel.Wishes">
+            <inheritdoc cref="F:exercice_MVVM.ViewModels.ListViewModel.wishes"/>
+        </member>
+        <member name="F:exercice_MVVM.ViewModels.ListViewModel.addWishCommand">
+            <summary>The backing field for <see cref="P:exercice_MVVM.ViewModels.ListViewModel.AddWishCommand"/>.</summary>
+        </member>
+        <member name="P:exercice_MVVM.ViewModels.ListViewModel.AddWishCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:exercice_MVVM.ViewModels.ListViewModel.AddWish(System.String)"/>.</summary>
+        </member>
+        <member name="T:exercice_MVVM.ViewModels.MVVMViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:exercice_MVVM.ViewModels.MVVMViewModel.Counter">
+            <inheritdoc cref="F:exercice_MVVM.ViewModels.MVVMViewModel.counter"/>
+        </member>
+        <member name="F:exercice_MVVM.ViewModels.MVVMViewModel.incrementCommand">
+            <summary>The backing field for <see cref="P:exercice_MVVM.ViewModels.MVVMViewModel.IncrementCommand"/>.</summary>
+        </member>
+        <member name="P:exercice_MVVM.ViewModels.MVVMViewModel.IncrementCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:exercice_MVVM.ViewModels.MVVMViewModel.Increment(System.Int32)"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Wishes">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Wishes" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Counter">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Counter" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Wishes">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Wishes" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Counter">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Counter" generated properties.</summary>
+        </member>
+    </members>
+</doc>
