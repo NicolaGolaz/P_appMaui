@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P_AppMobileLecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f9c6a880dbda78c9f9dbdaefb2cb14f71bbbe0bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8571eb09acc4d11deb651c55c42d9ef87b6f2e09")]
 [assembly: System.Reflection.AssemblyProductAttribute("P_AppMobileLecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P_AppMobileLecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

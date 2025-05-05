@@ -85,6 +85,10 @@
               "target": "Package",
               "version": "[8.0.14, )",
               "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.3.0, )"
             }
           },
           "imports": [
@@ -150,6 +154,10 @@
               "target": "Package",
               "version": "[8.0.14, )",
               "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.3.0, )"
             }
           },
           "imports": [
@@ -203,6 +211,10 @@
               "target": "Package",
               "version": "[8.0.14, )",
               "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.3.0, )"
             }
           },
           "imports": [
@@ -251,6 +263,10 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.100, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.3.0, )"
             }
           },
           "imports": [
