@@ -2,17 +2,24 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="P_AppMobileLecture.HomePage"        
-             ControlTemplate="{StaticResource PageLayoutTemplate}">
+             ControlTemplate="{StaticResource PageLayoutTemplate}"
+             Title="Books">
 
     <Grid>
 
-       
-            <BoxView Margin="10" CornerRadius="20" Background="Aquamarine"/>
-        
-        
-        
-            
-        
+
+        <CollectionView ItemsSource="{Binding Books}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <Label TextColor="Red" Text="{Binding title}" FontAttributes="Bold" FontSize="18"/>
+                        <Label Text="{Binding summary}" FontSize="14"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+
 
 
 

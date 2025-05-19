@@ -1,0 +1,63 @@
+import { auth } from "../auth/auth.mjs";
+
+// Liste des produits (base de données)
+let books = [
+  {
+    id: 1,
+    title: "Sample Book Title",
+    numberOfPages: 350,
+    extract: "This is a sample extract from the book.",
+    summary: "This is a brief summary of the book.",
+    nameEditor: "John Doe",
+    coverImage: "http://example.com/cover.jpg",
+    yearOfPublication: 2021,
+    averageOfReviews: 4,
+    category_fk: 1,
+    userId: 1,
+    author_fk: 1,
+  },
+  {
+    id: 2,
+    title: "Another Book Title",
+    numberOfPages: 200,
+    extract: "This is another sample extract from the book.",
+    summary: "This is another brief summary of the book.",
+    nameEditor: "Jane Smith",
+    coverImage: "http://example.com/cover2.jpg",
+    yearOfPublication: 2019,
+    averageOfReviews: 5,
+    category_fk: 1,
+    userId: 1,
+    author_fk: 2,
+  },
+  {
+    id: 3,
+    title: "Yet Another Book Title",
+    numberOfPages: 450,
+    extract: "This is yet another sample extract from the book.",
+    summary: "This is yet another brief summary of the book.",
+    nameEditor: "Alice Johnson",
+    coverImage: "http://example.com/cover3.jpg",
+    yearOfPublication: 2020,
+    averageOfReviews: 3,
+    category_fk: 1,
+    userId: 1,
+    author_fk: 3,
+  },
+  {
+    id: 4,
+    title: "Final Book Title",
+    numberOfPages: 300,
+    extract: "This is the final sample extract from the book.",
+    summary: "This is the final brief summary of the book.",
+    nameEditor: "Bob Brown",
+    coverImage: "http://example.com/cover4.jpg",
+    yearOfPublication: 2022,
+    averageOfReviews: 4,
+    category_fk: 1,
+    userId: 1,
+    author_fk: 1,
+  },
+];
+
+export { books };
